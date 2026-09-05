@@ -1,0 +1,9 @@
+{
+  "name": "curate-claude-md",
+  "description": "Guidelines for creating, updating, and improving CLAUDE.md files.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Vikrant Jain",
+    "email": "vikrant.jain@onespan.com"
+  }
+}
